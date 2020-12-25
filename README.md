@@ -1,6 +1,6 @@
 ## Important note
 
-This system is for educational purpose only and not suitable to be used in real life situation
+This system is for educational purpose only and not suitable to be used in real life situation.
 USE IT AT YOUR OWN RISK
 
 ## Folder Structure
